@@ -1,4 +1,7 @@
-# § 1: Name, Sitz und Tätigkeitsbereich
+
+# Statuten des Vereins DotNetDevs.at
+
+## § 1: Name, Sitz und Tätigkeitsbereich
 
 (1) Der Verein führt den Namen "DotNetDevs.at".
 
@@ -7,13 +10,13 @@
 
 (3) Die Errichtung von Zweigvereinen ist beabsichtigt.
 
-# § 2: Zweck
+## § 2: Zweck
 
 Der Verein, dessen Tätigkeit nicht auf Gewinn gerichtet ist, bezweckt
 die Verbreitung von Wissen und Erfahrung zur Verwendung auf .NET
 Technologien basierter Software.
 
-# § 3: Mittel zur Erreichung des Vereinszwecks
+## § 3: Mittel zur Erreichung des Vereinszwecks
 
 (1) Der Vereinszweck soll durch die in den Abs. 2 und 3 angeführten
     ideellen und materiellen Mittel erreicht werden.
@@ -35,7 +38,7 @@ b)  Spenden
 
 c)  Sponsorengelder
 
-# § 4: Arten der Mitgliedschaft
+## § 4: Arten der Mitgliedschaft
 
 (1) Die Mitglieder des Vereins gliedern sich in ordentliche,
     außerordentliche und Ehrenmitglieder.
@@ -46,7 +49,7 @@ c)  Sponsorengelder
     Mitgliedsbeitrags fördern. Ehrenmitglieder sind Personen, die hier
     zu wegen besonderer Verdienste um den Verein ernannt werden.
 
-# § 5: Erwerb der Mitgliedschaft
+## § 5: Erwerb der Mitgliedschaft
 
 (1) Mitglieder des Vereins können alle physischen Personen, sowie juristische Personen und rechtsfähige Personengesellschaften werden.
 
@@ -66,7 +69,7 @@ c)  Sponsorengelder
 (4) Die Ernennung zum Ehrenmitglied erfolgt auf Antrag des Vorstands
     durch die Generalversammlung.
 
-# § 6: Beendigung der Mitgliedschaft
+## § 6: Beendigung der Mitgliedschaft
 
 (1) Die Mitgliedschaft erlischt durch Tod, bei juristischen Personen und
     rechtsfähigen Personengesellschaften durch Verlust der
@@ -93,7 +96,7 @@ c)  Sponsorengelder
     genannten Gründen von der Generalversammlung über Antrag des
     Vorstands beschlossen werden.
 
-# § 7: Rechte und Pflichten der Mitglieder
+## § 7: Rechte und Pflichten der Mitglieder
 
 (1) Die Mitglieder sind berechtigt, an allen Veranstaltungen des Vereins
     teilzunehmen und die Einrichtungen des Vereins zu beanspruchen. Das
@@ -125,13 +128,13 @@ c)  Sponsorengelder
     pünktlichen Zahlung der Beitrittsgebühr und der Mitgliedsbeiträge in
     der von der Generalversammlung beschlossenen Höhe verpflichtet.
 
-# § 8: Vereinsorgane
+## § 8: Vereinsorgane
 
 Organe des Vereins sind die Generalversammlung (§§ 9 und 10), der
 Vorstand (§§ 11 bis 13), die Rechnungsprüfer (§ 14) und das
 Schiedsgericht (§ 15).
 
-# § 9: Generalversammlung
+## § 9: Generalversammlung
 
 (1) Die Generalversammlung ist die „Mitgliederversammlung" im Sinne des
     Vereinsgesetzes 2002. Eine ordentliche Generalversammlung findet
@@ -191,7 +194,7 @@ e.  Beschluss eines gerichtlich bestellten Kurators (§ 11 Abs. 2 letzter
     auch diese/r verhindert ist, so führt das an Jahren älteste
     anwesende Vorstandsmitglied den Vorsitz.
 
-# § 10: Aufgaben der Generalversammlung
+## § 10: Aufgaben der Generalversammlung
 
 Der Generalversammlung sind folgende Aufgaben vorbehalten:
 
@@ -219,7 +222,7 @@ h)  Beschlussfassung über Statutenänderungen und die freiwillige
 i)  Beratung und Beschlussfassung über sonstige auf der Tagesordnung
     stehende Fragen.
 
-# § 11: Vorstand
+## § 11: Vorstand
 
 (1) Der Vorstand besteht aus vier Mitgliedern, und zwar aus
     Obmann/Obfrau und Stellvertreter/in sowie Kassier/in und
@@ -275,7 +278,7 @@ i)  Beratung und Beschlussfassung über sonstige auf der Tagesordnung
     Generalversammlung zu richten. Der Rücktritt wird erst mit Wahl bzw
     Kooptierung (Abs. 2) eines Nachfolgers wirksam.
 
-# § 12: Aufgaben des Vorstands
+## § 12: Aufgaben des Vorstands
 
 Dem Vorstand obliegt die Leitung des Vereins. Er ist das „Leitungsorgan"
 im Sinne des Vereinsgesetzes 2002. Ihm kommen alle Aufgaben zu, die
@@ -302,7 +305,7 @@ seinen Wirkungsbereich fallen insbesondere folgende Angelegenheiten:
 
 (7) Aufnahme und Kündigung von Angestellten des Vereins.
 
-# § 13: Besondere Obliegenheiten einzelner Vorstandsmitglieder
+## § 13: Besondere Obliegenheiten einzelner Vorstandsmitglieder
 
 (1) Der/die Obmann/Obfrau führt die laufenden Geschäfte des Vereins.
     Der/die Schriftführer/in unterstützt den/die Obmann/Obfrau bei der
@@ -339,7 +342,7 @@ seinen Wirkungsbereich fallen insbesondere folgende Angelegenheiten:
     Obmanns/Obfrau, des Schriftführers/der Schriftführerin oder des
     Kassiers/der Kassierin ihre Stellvertreter/innen.
 
-# § 14: Rechnungsprüfer
+## § 14: Rechnungsprüfer
 
 (1) Zwei Rechnungsprüfer werden von der Generalversammlung auf die Dauer
     von 2 Jahren gewählt. Wiederwahl ist möglich. Die Rechnungsprüfer
@@ -358,7 +361,7 @@ seinen Wirkungsbereich fallen insbesondere folgende Angelegenheiten:
     Genehmigung durch die Generalversammlung. Im Übrigen gelten für die
     Rechnungsprüfer die Bestimmungen des § 11 Abs. 8 bis 10 sinngemäß.
 
-# § 15: Schiedsgericht
+## § 15: Schiedsgericht
 
 (1) Zur Schlichtung von allen aus dem Vereinsverhältnis entstehenden
     Streitigkeiten ist das vereinsinterne Schiedsgericht berufen. Es ist
@@ -384,7 +387,7 @@ seinen Wirkungsbereich fallen insbesondere folgende Angelegenheiten:
     einfacher Stimmenmehrheit. Es entscheidet nach bestem Wissen und
     Gewissen. Seine Entscheidungen sind vereinsintern endgültig.
 
-# § 16: Freiwillige Auflösung des Vereins
+## § 16: Freiwillige Auflösung des Vereins
 
 (1) Die freiwillige Auflösung des Vereins kann nur in einer
     Generalversammlung und nur mit Zweidrittelmehrheit der abgegebenen
@@ -403,7 +406,7 @@ seinen Wirkungsbereich fallen insbesondere folgende Angelegenheiten:
     Wochen nach Beschlussfassung der zuständigen Vereinsbehörde schriftlich
     anzuzeigen
 
-# § 17: Verwendung des Vereinsvermögens bei Ausscheiden von Mitgliedern, bei Auflösung des Vereins oder bei Wegfall des begünstigten Zwecks
+## § 17: Verwendung des Vereinsvermögens bei Ausscheiden von Mitgliedern, bei Auflösung des Vereins oder bei Wegfall des begünstigten Zwecks
 
 Bei Auflösung des Vereins oder bei Wegfall des bisherigen begünstigten
 Vereinszwecks ist das nach Abdeckung der Passiva verbleibende
