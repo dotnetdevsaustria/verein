@@ -1,9 +1,9 @@
 
-# Statuten des Vereins DotNetDevs.at - Verein zur Unterstützung von .NET Entwickler/innen
+# Statuten des Vereins DotNetDevs.at - Verein zur Unterstützung von .NET Entwickler*innen
 
 ## § 1: Name, Sitz und Tätigkeitsbereich
 
-(1) Der Verein führt den Namen "DotNetDevs.at - Verein zur Unterstützung von .NET Entwickler/innen".
+(1) Der Verein führt den Namen "DotNetDevs.at - Verein zur Unterstützung von .NET Entwickler*innen".
 
 (2) Er hat seinen Sitz in Wien und erstreckt seine Tätigkeit auf
     Österreich.
