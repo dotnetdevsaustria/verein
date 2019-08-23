@@ -1,9 +1,9 @@
 
-# Statuten des Vereins DotNetDevs.at
+# Statuten des Vereins DotNetDevs.at - Verein zur Unterstützung von .NET Entwickler/innen in Österreich
 
 ## § 1: Name, Sitz und Tätigkeitsbereich
 
-(1) Der Verein führt den Namen "DotNetDevs.at".
+(1) Der Verein führt den Namen "DotNetDevs.at - Verein zur Unterstützung von .NET Entwickler/innen in Österreich".
 
 (2) Er hat seinen Sitz in Wien und erstreckt seine Tätigkeit auf
     Österreich.
@@ -308,13 +308,12 @@ seinen Wirkungsbereich fallen insbesondere folgende Angelegenheiten:
 ## § 13: Besondere Obliegenheiten einzelner Vorstandsmitglieder
 
 (1) Der/die Obmann/Obfrau führt die laufenden Geschäfte des Vereins.
-    Der/die Schriftführer/in unterstützt den/die Obmann/Obfrau bei der
-    Führung der Vereinsgeschäfte.
+    Der/die Kassier/in unterstützt den/die Obmann/Obfrau bei der Führung der Vereinsgeschäfte.
 
 (2) Der/die Obmann/Obfrau vertritt den Verein nach außen. Schriftliche
     Ausfertigungen des Vereins bedürfen zu ihrer Gültigkeit der
-    Unterschriften des/der Obmanns/Obfrau und des Schriftführers/der
-    Schriftführerin, in Geldangelegenheiten (vermögenswerte
+    Unterschriften des/der Obmanns/Obfrau und des Stellvertreter/der
+    Stellvertreterin, in Geldangelegenheiten (vermögenswerte
     Dispositionen) des/der Obmanns/Obfrau und des Kassiers/der
     Kassierin. Rechtsgeschäfte zwischen Vorstandsmitgliedern und Verein
     bedürfen der Zustimmung eines anderen Vorstandsmitglieds.
@@ -332,14 +331,14 @@ seinen Wirkungsbereich fallen insbesondere folgende Angelegenheiten:
 (5) Der/die Obmann/Obfrau führt den Vorsitz in der Generalversammlung
     und im Vorstand.
 
-(6) Der/die Schriftführer/in führt die Protokolle der Generalversammlung
+(6) Der/die Stellvertreter/in führt die Protokolle der Generalversammlung
     und des Vorstands.
 
 (7) Der/die Kassier/in ist für die ordnungsgemäße Geldgebarung des
     Vereins verantwortlich.
 
 (8) Im Fall der Verhinderung treten an die Stelle des/der
-    Obmanns/Obfrau, des Schriftführers/der Schriftführerin oder des
+    Obmanns/Obfrau oder des
     Kassiers/der Kassierin ihre Stellvertreter/innen.
 
 ## § 14: Rechnungsprüfer
